@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9d1de195-ef06-49ad-b369-623b436c1851/microsoft.web/sites/subscriptions/9d1de195-ef06-49ad-b369-623b436c1851/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/alnicos",
+    "appService.deploySubpath": "."
+}
