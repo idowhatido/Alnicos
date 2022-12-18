@@ -43,15 +43,6 @@ app.post("/", function(request, responce){
         }
     })
 
-
-    //alert("Message sent, We will reach out to you shortly !")
-    //responce.sendFile(__dirname + "/index.html");
 })
 
-
 app.listen(process.env.PORT || 443);
-
-
-//5d527bc19e745a8b405c5c3770ae40ec-us13
-
-//5e95defce5
